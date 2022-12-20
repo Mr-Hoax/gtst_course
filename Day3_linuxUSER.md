@@ -2,7 +2,7 @@
 
 - it was previously known as BACKTRACK
 
-# 1. information Gathering
+# 1️⃣. information Gathering
 > Tools for **information gathering**, in system, network,host...
 - dmirty     
 - ike-scan
@@ -12,23 +12,23 @@
 - recon-ng
 - spiderfoot
 
-# 2. Vulnerability Analysis
+# 2️⃣. Vulnerability Analysis
 > Tools for **finding vulnerabilities**
 - lynis 
 - nikto
 
-# 3. Web Application Analysis
+# 3️⃣. Web Application Analysis
 > Tools for **finding vulnerabilities and exploits** on websites
 - burpsuit
 - httrack
 - sqlmap
 - webscarab
 - ZAP
-# 4. Database Assesment 
+# 4️⃣. Database Assesment 
 > Tools for finding **vulnerabilities and exploits** on databases.
 - jsQL injection
 - tnsmd10g
-# 5. password Attacks
+# 5️⃣. password Attacks
 > Tools for **exploiting passwords for login, websites, application, windows**...
 - cewl
 - crunch
@@ -36,7 +36,7 @@
 - johnny
 - wordlists
 - ophcrack
-# 6. Wireless Attacks
+# 6️⃣. Wireless Attacks
 > Tools for **exploiting wireless systems like wifi,bluthooth**..
 - aircrack-ng
 - cowpatty
@@ -44,48 +44,48 @@
 - pixiewps
 - wifite
 
-# 7. Reverse Engineering 
+# 7️⃣. Reverse Engineering 
 > Tools for **exploiting softwares, mobile applications and any binary files**
 - apktool
 - clang
 - ghidra
 - NASM shell
 - javasnoop
-# 8. Exploitation Tools
+# 8️⃣. Exploitation Tools
 > Tools for **exploiting softwares,mobile, computers, webites and anythings**
 - armitage
 - searchsploit
 - sqlmap
 - termineter
-# 9. sniffing & spoofing
+# 9️⃣. sniffing & spoofing
 > Tools for **listening or hijacking networks**
 - driftnet
 - hamster
 - mitmproxy
 - responder
 - wireshark
-# 10.post explitation
+# 🔟.post explitation
 > Tools for **Maintaning our access**. used after exploiting a system.
 - exe2hex
 - weevely
 - powersploit
-# 11. forensics
+# 1️⃣1️⃣. forensics
 > Tools for Doing researches and investigate a cyber attack
 - autopsy
 - binwalk
 - hashdeep
-# 12. Reporting tools
+# 1️⃣2️⃣. Reporting tools
 > Tools for report presentation. after a forensic you will get data and you will write the report.
 - pipa
 - maltego
-# 13. social engineering tools
+# 1️⃣3️⃣. social engineering tools
 > tools used for social engineering attacks
 - maltego
-# 14. system services
+# 1️⃣4️⃣. system services
 > buttons used to start some services.
 - beef stop
 - dradis stop
-# 15. usually used applications
+# 1️⃣5️⃣. usually used applications
 > softwares for some basic purposes
 - system services
 - internet
