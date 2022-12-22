@@ -21,8 +21,7 @@
 
  - contains configuration files required by all programs.
 6️⃣, /home (home directory)
-
- - home directories for all users to store their personal files.
+-home directories for all users to store their personal files.
 
 
 7️⃣, /lib ( libraries essential for the binaries in /bin and /sbin)
