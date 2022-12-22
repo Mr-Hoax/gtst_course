@@ -23,7 +23,10 @@
 6️⃣, /home (home directory)
 
  - home directories for all users to store their personal files.
+
+
 7️⃣, /lib ( libraries essential for the binaries in /bin and /sbin)
+
  - library filenames are either id* or lib*.so*
 
 8️⃣, /media ( mount points for removable media such as CD-ROMs)
