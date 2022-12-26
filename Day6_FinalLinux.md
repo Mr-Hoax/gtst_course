@@ -53,6 +53,14 @@ scripts are made with scripting languages like {python,bash,go,ruby,....}
 ## Tmux - Terminal multiplexer
 
 - used to classify our terminal work
+
+> - use the syntax down below after you create config file type
+> > - nano .tmux.conf
+> > > - then write the below code in the file 
+> > - **![alt text](/picturesForGtst/conf%20code.png)**
+
+
+### Then use the bellow commands to navigate through the **tmux**
 **![alt text](/picturesForGtst/Screenshot%202022-12-26%20122218.png)**
 
 
