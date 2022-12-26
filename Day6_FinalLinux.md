@@ -61,7 +61,8 @@ scripts are made with scripting languages like {python,bash,go,ruby,....}
 
 
 ### Then use the bellow commands to navigate through the **tmux**
-**![alt text](/picturesForGtst/Screenshot%202022-12-26%20122218.png)**
+> the below
+**![alt text](/picturesForGtst/commands%20for%20tmux.png)**
 
 
 ### wget
